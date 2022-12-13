@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi everyone and welcome to my blog. My name is Farhad and I am a PhD studnet at PolyMtl.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have been programming machine learning and optimization algorithms for years and recently switch to Julia. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I thought I share with you some of the tutorials I found useful and add some of my own comments and steps to them. 
 
+Please do not hesitate to contact me with feedback or just normal conversation. 
 
-[jekyll-organization]: https://github.com/jekyll
+Best,
+Farhad
