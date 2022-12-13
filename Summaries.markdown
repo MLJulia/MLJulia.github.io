@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Links
+title: summary of posts
 # parent: Utilities
-permalink: /Links/
+permalink: /summaries/
 ---
 
-# Layout Utilities
-{: .no_toc }
+<!-- # Layout Utilities -->
+<!-- {: .no_toc } -->
 
 ## Table of contents
 {: .no_toc .text-delta }
