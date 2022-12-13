@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Links
-parent: Utilities
+# parent: Utilities
+permalink: /Links/
 ---
 
 # Layout Utilities
