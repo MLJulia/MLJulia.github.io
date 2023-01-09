@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Training LeNet-5 model on the CIFAR-10 in Julia"
-date:   2023-01-09 11:20:36 -0400
-categories: julia AI
+title: "Training LeNet-5 model on the CIFAR-10 in Julia"
+date: 2023-01-09 11:20:36 -0000
+categories: julia-AI
 ---
 LeNet-5 is a convolutional neural network (CNN) that was introduced by Yann LeCun et al. in their 1998 paper, "Gradient-Based Learning Applied to Document Recognition." It was one of the first successful applications of CNNs on a large-scale image recognition task, and it is still widely used today as a starting point for many image recognition tasks.
 ![picture 1](../images/b5e5e3adbc2b907cb850ccb51d3c79766106b6848746e9b153e7ce31107b5ba4.png)  
